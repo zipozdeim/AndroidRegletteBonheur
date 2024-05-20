@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RegletteCSSCT</string>
+    <string name="s1">&#128545;</string>
+    <string name="s2">&#128552;</string>
+    <string name="s3">&#128553;</string>
+    <string name="s4">&#128543;</string>
+    <string name="s5">&#128528;</string>
+    <string name="s6">&#128524;</string>
+    <string name="s7">&#128522;</string>
+    <string name="s8">&#128512;</string>
+    <string name="s9">&#128513;</string>
+    <string name="s10">&#128525;</string>
+</resources>
